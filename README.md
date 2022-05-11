@@ -1,4 +1,4 @@
-#  DIO - Digital Innovation One: SANTANDER DEV WEEK: Bankline APP
+#  DIO - Digital Innovation One: SANTANDER DEV WEEK - Bankline APP
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
