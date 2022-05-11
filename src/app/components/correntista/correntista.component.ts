@@ -28,8 +28,6 @@ export class CorrentistaComponent implements OnInit {
       });
     }
 
-  
-
   save(): void {
     const correntista = {
       cpf:this.cpf,
